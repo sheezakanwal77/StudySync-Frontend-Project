@@ -44,19 +44,20 @@ The website showcases product collections, promotional banners, curated catalogs
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](ScreenShots/Hero-Section.jpeg)
+![Hero Section](./ScreenShots/Hero-Section.jpeg)
 
 ### Products Section
-![Products](ScreenShots/Products.jpeg)
+![Products](./ScreenShots/Products.jpeg)
 
 ### About Section
-![About](ScreenShots/About.jpeg)
+![About](./ScreenShots/About.jpeg)
 
 ### Curated Catalog
-![Curated Catalog](ScreenShots/Curated%20Catalog.jpeg)
+![Curated Catalog](./ScreenShots/Curated%20Catalog.jpeg)
 
 ### Footer
-![Footer](ScreenShots/Footer.jpeg)
+![Footer](./ScreenShots/Footer.jpeg)
+
 ## 🛠️ Built With
 
 | Technology | Purpose |
