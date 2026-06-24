@@ -1,40 +1,52 @@
-# StudySync 📚
+# StudySync 📚✨
 
-## Overview
-StudySync is a full-stack web application designed to help students manage their studies, tasks, and academic progress efficiently.
+> A modern and responsive frontend web app to help students 
+> organize their academic life efficiently.
 
-## Features
-- 📝 Task Management
-- 📅 Study Schedule Planner
-- 📊 Progress Tracking
-- 🔐 User Authentication
-- 💻 Responsive Design
-- 🌙 Modern UI/UX
+---
 
-## Technologies Used
+## 🌟 Overview
+StudySync is a clean and intuitive frontend application built 
+for students who want to stay on top of their studies, tasks, 
+and schedules — all in one place.
+
+---
+
+## ⚡ Features
+| Feature | Description |
+|---|---|
+| 📝 Task Management | Add, track and complete study tasks |
+| 📅 Schedule Planner | Plan your daily study sessions |
+| 📊 Progress Tracking | Monitor your academic progress |
+| 💻 Responsive Design | Works on mobile and desktop |
+| 🌙 Modern UI/UX | Clean and distraction-free interface |
+
+---
+
+## 🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
-- PHP
-- MySQL
 - Bootstrap
 
-## Installation
-1. Clone the repository
-2. Import database file in phpMyAdmin
-3. Configure `config.php` with your DB credentials
-4. Run on XAMPP localhost
+---
 
-## Project Structure
+## 📁 Project Structure
 ```
 StudySync/
-├── index.html
-├── style.css
-├── script.js
-└── images/
+├── index.html      # Main HTML file
+├── style.css       # Custom styles
+├── script.js       # JavaScript logic
+└── images/         # Project assets
 ```
 
-## Author
+---
+
+## 👩‍💻 Author
 **Sheeza Kanwal**
 BS Software Engineering — GCUF
-GitHub: [@sheezakanwal77](https://github.com/sheezakanwal77)
+🔗 GitHub: [@sheezakanwal77](https://github.com/sheezakanwal77)
+
+---
+
+⭐ *If you find this project helpful, don't forget to star it!*
